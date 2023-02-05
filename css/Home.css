@@ -219,3 +219,8 @@ margin-bottom:10px;
     width: 30px;
     border-radius: 50px;
 }
+/* responsive styles */
+
+@media screen and (max-width:235px){
+    
+}
